@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King and both Houses of Parliament here are some of our sufferings and grievances laid before you in the wisdom of God to take into your consideration and to relieve us.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62744</idno>
+            <idno type="STC">Wing T1489A</idno>
+            <idno type="STC">ESTC R26319</idno>
+            <idno type="EEBO-CITATION">09427761</idno>
+            <idno type="OCLC">ocm 09427761</idno>
+            <idno type="VID">43055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1318:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King and both Houses of Parliament here are some of our sufferings and grievances laid before you in the wisdom of God to take into your consideration and to relieve us.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:43055:1" rendition="simple:additions"/>
+            <head>To the KING and Both Houſes of PARLIAMENT.</head>
+            <head type="sub">Here are ſome of our Sufferings and Grievances laid before you, in the Wiſdom of <hi>God,</hi> to take into your Conſideration, and to Relieve Us.</head>
+            <p n="1">Firſt, BY taking off from us thoſe Laws that have been made againſt PAPISTS, <hi>viz.</hi> That of 20 <hi>l.</hi> a Month, and that of two thirds of Eſtates; And all thoſe Laws that have been unjuſtly layed upon us; and ſome they have impriſoned, and others they have ſpoyled their Goods, and taken more then the Annual value of the Rent of their Land, though they be Copy-holders, which is Contrary to the Rule of Court, (as it is ſaid,) and ſo have made no difference of Copy-hold and Free-hold Eſtates; and of them that be true and real PROTESTaNTS, and not PAPISTS, to the almoſt Spoyling and Ruining of many Families.</p>
+            <p>And therefore we deſire that you would make a diſtinction betwixt tender Conſciences, <hi>diſſenting Proteſtants,</hi> &amp; <hi>Papiſts.</hi>
+            </p>
+            <p n="2">Secondly, Beſides theſe late Laws that have been made againſt us, for Baniſhing of us; And for meeting together, to worſhip God, which hath been counted a ſufficient crime (if we confeſſed we met together, to worſhip God in Spirit and in Truth, as CHRIST Commanded above Sixteen Hundred years ſince,) to Baniſh us, ruine and ſpoyl out goods; Whereby many have been made Widows, and Fatherleſs.</p>
+            <p n="3">Thirdly, Likewiſe the late Act againſt <hi>Conventicles, viz.</hi> 20 <hi>l.</hi> the Speaker, and 20 <hi>l.</hi> the Houſe, and 5 <hi>s.</hi> or 10 <hi>s.</hi> for every hearer, and all for worſhiping of God in Spirit and in Truth; for doing ſo, hath been looked upon to be a Crime enough to spoyl our goods; And you cannot be unſenſible what a multitude of Families are almoſt ruined, and their goods ſpoyled, both without and within; ſo that ſeveral at this time have not a Bed to lie upon.</p>
+            <p n="4">Fourthly, And we hope you are not unſenſible of the Debauchery of the youth and People, and of their Debauched Meetings, and their Curſings and Daming Oaths, and Swearing to the Diſhonour of God, and true Chriſtianity, and to the grief of them that fear God, in this Land, and how many Judgments God hath brought upon it, for its Sins and Iniquities.</p>
+            <p n="5">Fifthly, And you are not Ignorant; what Poor, Deſolate and Deſperate rude wicked men, are, and have been informers up and down the Nation, and you know, let them be what Informers they will, the Juſtices, Mayors, and Bayliſs muſt obey them, or elſe they forfeit 100 <hi>l.</hi> each of them; and alſo the Conſtables and other Officers 5 <hi>l.</hi>
+            </p>
+            <p n="6">Sixthly, And alſo we do believe, that you are not unſenſible how many Hundreds of our Friends are caſt into Priſon in the Nation, by <hi>Biſhops</hi> and <hi>Prieſts,</hi> by Writ of <hi>Excommunicato capiendo,</hi> and ſome kept till death; ſo that many are made Widows, and Fatherleſs; and truly the Cry of all theſe things is entred in the Ears of the lord of <hi>Hoſtes, James</hi> the 5. And therefore ſee how contrary their practices are to the command of Chriſt, who ſaid to his Mi<g ref="char:EOLhyphen"/>niſters, <hi>go without a Bagg or a Staffs,</hi> freely ye have received, freely give; And now ſee who will go without Staff and Bagg, and not force People to put into it; and the Apoſtle ſaid, <hi>a Biſhop muſt be no Striker, nor Fighter, nor Covetous, nor given to filthy lucre, but gentle,</hi> Timothy the 3.</p>
+            <p>And again <hi>Paul</hi> Wrote to <hi>Titus,</hi> that a Biſhop <hi>muſt be unreprovable, as a good Steward, not froward nor angry, not Striker, not given to filthy lucre,</hi> Titus the 1.</p>
+            <p>And the Elders that were to feed the Flock, <hi>they were to do it willingly not for filthy lucre, but of a ready mind, not as Lords over Gods heritage, but Examples to the Flock,</hi> 1 Peter and the 5.</p>
+            <p>And the Apoſtle ſaid, <hi>be had coveted no</hi> Mans Silver nor Gold, nor Apparel, <hi>but ye know that theſe Hands have Miniſtred to my neceſſties, and to them that were with me</hi>; and that it was a bleſſed thing to give rather then receive,<hi>Acts</hi> the 20th.</p>
+            <p>Now we deſire the Biſhops and Prieſts, that ſay the <hi>Scripture</hi> is their Rule, to ſee how their doings are ſhort of this Doctrine, and practice of <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> let the Courts and Goals, and the ſpoyling of Goods witneſs, for where did <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> caſt any into Priſon, and Spoyl their goods, for means and wages.</p>
+            <p n="7">Seventhly, And you are not unſenſible how that many of the true PROTESRANT DISSENTERS, in the Na<g ref="char:EOLhyphen"/>tion, are <hi>Excommunicated,</hi> ſo that they are Barred from all <hi>Juſtice, Right,</hi> and <hi>Law,</hi> both to themſelves, and others.</p>
+            <p n="8">Eightly, And we have ſuffered greatly, both in Eſtates and Perſons, becauſe we cannot Swear, which is in obe<g ref="char:EOLhyphen"/>dience to <hi>Chriſt</hi> and the <hi>Apoſtles Doctrine,</hi> that forbid all Oaths and Swearing, and ſets up <hi>yea</hi> and <hi>nay</hi> in the Room of it; And we declare both to King and Parliament, what we can ſay inſtead of an Oath, that if we break our <hi>yea</hi> and <hi>nay</hi> when we are called to any Office, or Evidence, to teſtifie the truth in any cauſe, then let us ſuffer the ſame Puniſhment, as Perjured Perſons do that break their Oath, and this is our true <hi>Chriſtian</hi> PROTESTANT Teſtimony unto you.</p>
+            <p>And we alſo believe you know that many ſuffered in <hi>Holland,</hi> for refuſing to take an Oath before the Magiſtrates in <hi>Hol<g ref="char:EOLhyphen"/>land</hi> made a Law, that thoſe who ſcrupled an Oath, their <hi>yea</hi> and <hi>nay</hi> ſhould be taken inſtead of an Oath, in regard of their tender conſciences; which now our friends there have the benefit of, in which they are ſervicable to their Generation; and this thing we intreat you to take into Conſideration, for God almighty knows, that it is not in wilfullneſs, ſtubborneſs, or Rebellion, that we refuſe to Swear; But in tenderneſs and obedience to the command of <hi>Chriſt Jeſus</hi> and his <hi>Apoſtles.</hi>
+            </p>
+            <p n="9">Ninthly, And you are not unſenſible, when that we are called to teſtifie the truth in many caſes, not only in that which concerneth our ſelves, but that which concerneth you, and others, are like to ſuffer, becauſe we in obedience to <hi>Chriſts</hi> command cannot Swear; Here you and we ſuffer and loſe our Rights, and cannot have Juſtice and Law; and not only ſo, but looſe our ſervice in our Creation and Generation. And remember the Chriſtians in the ten Per<g ref="char:EOLhyphen"/>ſecutions, becauſe they could not Swear, they put a mark upon him, and ſaid <hi>he is a Chriſtian, and will not Swear</hi>; And is it not hard, that Chriſtians now ſhould be perſecuted, and Impriſoned, and the Goods ſpoyled by profeſt Chriſti<g ref="char:EOLhyphen"/>ans, becauſe they will not Swear and take Oath, and yet they are willing to ſuffer the ſame puniſhment, as Perjured Perſons that break their Oaths, if they break their <hi>yea</hi> and <hi>nay.</hi>
+            </p>
+            <p n="10">Tenthly, And ſince that we in the Country have given our Votes for ſuch Parliament men, as we judged to be ſober and real Proteſtants, and had a ſence of the Grievances of the People, we have ſuffered much more, then we did be<g ref="char:EOLhyphen"/>fore, both by the Laws that are made againſt <hi>Papiſts</hi>; The 20 <hi>l. per</hi> Month, and two thirds of our Eſtates, and that of <hi>Conventicles</hi> by Informers, that many arc almoſt ruined in their Eſtates, and ſo we deſire you to take off theſe ſuffer<g ref="char:EOLhyphen"/>ings from us, and Relieve us in theſe things.</p>
+            <closer>
+               <signed>From them who deſires your Eternal Good and Happineſs, in <hi>Chriſt Jeſus</hi>; And the bleſſing of <hi>God</hi> upon this <hi>Nation,</hi> who are ſufferers for good Conſcience-ſake.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
